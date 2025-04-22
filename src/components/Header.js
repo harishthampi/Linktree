@@ -15,7 +15,7 @@ export default function Header() {
           </nav>
         </div>
         <div className="flex gap-4 text-sm text-slate-700">
-          <Link href="/signin">Sign In</Link>
+          <Link href="/login">Sign In</Link>
           <Link href="/register">Create Account</Link>
         </div>
       </div>
